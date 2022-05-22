@@ -5,7 +5,7 @@
 /**
  * print_STRNG - prints a string with a `S` (upper case) specificer
  * @arg: argument
- * 
+ *
  * Return: number of character printed
  */
 
