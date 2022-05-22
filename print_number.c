@@ -19,8 +19,7 @@ num *= -1;
 }
 for (i = 0; num / div > 9; i++, div *= 10)
 ;
-for (; (div >= 1); num % div); div /= 10)
-print_char++;
+for (; div >= 1; num % div; div /= 10; print_char++)
 {
 quot = num / div;
 _putchar('0' + quot);
