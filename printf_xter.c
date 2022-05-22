@@ -1,5 +1,6 @@
 #include "main.h"
-#include <stdarg.h
+#include <stdarg.h>
+
 /**
  * _print_xter - print character
  * @arg: argument
