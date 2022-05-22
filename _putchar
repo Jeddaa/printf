@@ -1,0 +1,11 @@
+#include <unistd.h>
+/**
+* main - entry point
+* _putchar - write the character c
+* @c: the character to print
+* Return: @ on sucess and -1 error and error is set appropraitely
+*\
+int _putchar(char c );
+{
+	return (write(1, &c, 1));
+}
