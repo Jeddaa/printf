@@ -23,7 +23,7 @@ return (i + 1);
 }
 
 /**
- * print_unsignedIntToHex - prints unsigned int to hexadecimal.
+ * print_unsignedintTohex - prints unsigned int to hexadecimal.
  * @num: number to print
  * @_case: letter `a` on the case to print it (upper or lower)
  * Return: number or char printed
