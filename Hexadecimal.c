@@ -4,9 +4,7 @@
 /**
  * _print_hex_base - base function for printing hexadecimal numbers
  * @arg: argument list containing hexadecimal
- * @_xter: a  in caps on lower, printing the hex number in caps in 
- * @nbrcharacters: number of characters
- * @num: integer
+ * @_xter: a  in caps on lower, printing the hex number in caps in
  * Return: number of digits printed
  */
 
